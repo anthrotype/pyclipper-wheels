@@ -1,3 +1,6 @@
 [submodule "multibuild"]
 	path = multibuild
 	url = https://github.com/matthew-brett/multibuild.git
+[submodule "pyclipper"]
+	path = pyclipper
+	url = https://github.com/anthrotype/pyclipper
